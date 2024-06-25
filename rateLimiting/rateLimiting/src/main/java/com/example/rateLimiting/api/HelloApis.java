@@ -1,6 +1,6 @@
 package com.example.rateLimiting.api;
 
-import com.example.rateLimiting.rateLimiter.RateLimit;
+import io.github.ujjawalgupta29.annotations.RateLimit;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

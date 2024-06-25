@@ -1,6 +1,6 @@
 package com.example.rateLimiting.configurations;
 
-import com.example.rateLimiting.rateLimiter.RateLimitingFilter;
+import io.github.ujjawalgupta29.filters.RateLimitingFilter;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
