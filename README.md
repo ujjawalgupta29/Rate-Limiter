@@ -1,3 +1,5 @@
+[![Maven Central](https://central.sonatype.com/artifact/io.github.ujjawalgupta29/RateLimiter_Semaphores/overview)](https://central.sonatype.com/artifact/io.github.ujjawalgupta29/RateLimiter_Semaphores/overview)
+
 **Rate Limiter**
 
 Implementation of a Rate Limiter using semaphores to block number of active api calls at a service level if it reaches beyond it's threshold.
