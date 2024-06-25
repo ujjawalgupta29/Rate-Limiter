@@ -1,4 +1,4 @@
-[![Maven Central](https://central.sonatype.com/artifact/io.github.ujjawalgupta29/RateLimiter_Semaphores/overview)](https://central.sonatype.com/artifact/io.github.ujjawalgupta29/RateLimiter_Semaphores/overview)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.ujjawalgupta29/RateLimiter_Semaphores.svg?style=plastic)](https://central.sonatype.com/artifact/io.github.ujjawalgupta29/RateLimiter_Semaphores/overview)
 
 **Rate Limiter**
 
